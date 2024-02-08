@@ -13,6 +13,12 @@ This repository hosts a collection of PDF documents, articles, and reports that 
 - [Voltaire Report: Navigating the New Age of Cardano Governance](Reports/Voltaire%20Report:%20Navigating%20the%20New%20Age%20of%20Cardano%20Governance.pdf)
 - [Governance Parameter Overview](Reports/Cardano%20Governance%20Parameter%20Overview.pdf)
 
+## Markdown Files
+
+This repository also includes the markdown files of the various content that we host:
+
+- [Markdown Files of the Reports](Reports/Markdown)
+
 ## How to Use This Repository
 
 - **Browsing**: Navigate through the repository to find documents sorted by topic or date.
