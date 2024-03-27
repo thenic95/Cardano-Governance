@@ -10,8 +10,8 @@ Cardano is a proof-of-stake blockchain platform that enables changemakers, innov
 
 This repository hosts a collection of PDF documents, articles, and reports that delve into various aspects of Cardano's governance, including but not limited to:
 
-- [Voltaire Report: Navigating the New Age of Cardano Governance](Reports/Voltaire%Reports/2023)
-- [Governance Parameter Overview](Reports/Cardano%Governance%Parameter)
+- [Voltaire Report: Navigating the New Age of Cardano Governance](Reports/Voltaire%20Reports/2023)
+- [Governance Parameter Overview](Reports/Cardano%20Governance%20Parameter)
 
 ## How to Use This Repository
 
